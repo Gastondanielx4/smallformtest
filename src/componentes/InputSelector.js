@@ -11,7 +11,7 @@ const arrayRol = [
   "Aprendiz",
   "Fenomeno",
   "Developer-Senior",
-  "Devoleper-Junior",
+  "Developer-Junior",
 ];
 const BoxYellow = styled.div`
   width: 70%;
